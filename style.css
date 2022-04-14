@@ -1,0 +1,18 @@
+#links a{
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  padding: 5px;
+}
+#nav{
+  background-color: grey;
+}
+#links a:active{
+  text-color: grey;
+}
+#links img{
+  padding:5px;
+}
+p{
+  padding:5px;
+}
