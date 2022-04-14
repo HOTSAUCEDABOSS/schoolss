@@ -1,0 +1,29 @@
+#links a{
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+}
+#nav{
+  background-color: grey;
+}
+#links a:active{
+  text-color: grey;
+}
+#product{
+  background-color: none;
+}
+#product h1{
+  font-size: 20px
+}
+#product h2{
+  font-size: 13px;
+}
+#product p{
+  font-size: 10px;
+}
+#product ul{
+  list-style: none;
+}
+#product li{
+  display: inline;
+}
